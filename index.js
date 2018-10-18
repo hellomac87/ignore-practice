@@ -1,1 +1,1 @@
-console.og('hello, js');
+console.log('amazing hello js');
